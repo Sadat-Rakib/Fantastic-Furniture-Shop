@@ -11,5 +11,8 @@ A stylish and fully responsive **furniture e-commerce website** built with **HTM
 
 ## 🛠️ Tech Stack  
 - **Frontend:** HTML, CSS, JavaScript  
-- **Deployment:** GitHub Pages / Vercel 
+- **Deployment:** GitHub Pages / Vercel
+
+🌍 Live Demo
+https://fantastic-furniture-shop.vercel.app/
 
