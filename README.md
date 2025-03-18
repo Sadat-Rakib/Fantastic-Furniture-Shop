@@ -16,3 +16,7 @@ A stylish and fully responsive **furniture e-commerce website** built with **HTM
 🌍 Live Demo
 https://fantastic-furniture-shop.vercel.app/
 
+📩 Contact For any inquiries or collaboration, reach out via: 📧 Email: mirsadatbinrakib01@gmail.com 📱 LinkedIn: https://www.linkedin.com/in/mir-sadat-bin-rakib/
+
+⭐ If you like this project, don’t forget to star the repo! 🚀
+
